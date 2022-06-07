@@ -10,11 +10,11 @@ app.use(cors())
 const libertadores = {
     'olimpia':{
         'name': 'Club Olimpia',
-        'libertadores':3,
+        'copas':3,
     },
     'unknown':{
         'name': 'unknown',
-        'libertadores':'unknown',
+        'copas':'unknown',
     }
 }
 
